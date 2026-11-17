@@ -5,7 +5,7 @@ const SOCIAL = {
   fb: "https://www.facebook.com/",
   ig: "https://www.instagram.com/insatre.official/",
   tt: "https://www.tiktok.com/",
-  web: "https://www.insatre.com/"
+  web: "https://insatre.vercel.app//"
 };
 
 const CATS = {
