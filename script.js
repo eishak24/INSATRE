@@ -4,7 +4,7 @@
 const SOCIAL = {
   fb: "https://www.facebook.com/",
   ig: "https://www.instagram.com/insatre.official/",
-  tt: "https://www.tiktok.com/",
+  tt: "https://www.tiktok.com/@insatreofficial?is_from_webapp=1&sender_device=pc/",
   web: "https://insatre.vercel.app//"
 };
 
